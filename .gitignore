@@ -1,4 +1,6 @@
+# Adding config.py file.
 api_keys.py
+weather_google_apis.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
